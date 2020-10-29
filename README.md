@@ -10,6 +10,5 @@
 
 
 ## 目录
----
 ### 开发工具
- - ![svn使用指南](https://github.com/clown-Jack/myBlog/issues/1)
+ ![svn使用指南](https://github.com/clown-Jack/myBlog/issues/1)
