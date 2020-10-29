@@ -5,7 +5,8 @@
 
 博客地址(不定期同步)：https://clown-jack.github.io/
 
-公众号地址:https://mmbiz.qpic.cn/mmbiz_png/ciclmTicgVuW6icUNyqyibf6Gx4Khw9iaibPicsdujGbQibLxOuDsiciap4EicMrevOZJu87JuvI8iba2icE1lu0uzcDn53LTiag/0?wx_fmt=png
+公众号地址(不定期同步):
+https://mmbiz.qpic.cn/mmbiz_png/ciclmTicgVuW6icUNyqyibf6Gx4Khw9iaibPicsdujGbQibLxOuDsiciap4EicMrevOZJu87JuvI8iba2icE1lu0uzcDn53LTiag/0?wx_fmt=png
 
 博客主要划分为以下几个模块:
 - 博客的搭建
