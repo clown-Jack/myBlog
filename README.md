@@ -11,5 +11,7 @@
 
 
 ## 目录
+### 博客
+  ![如何使用Github Issues+project搭建博客](https://github.com/clown-Jack/myBlog/issues/2)
 ### 开发工具
- ![svn使用指南](https://github.com/clown-Jack/myBlog/issues/1)
+  ![svn使用指南](https://github.com/clown-Jack/myBlog/issues/1)
