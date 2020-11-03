@@ -6,14 +6,14 @@
 博客地址(不定期同步)：https://clown-jack.github.io/
 
 博客主要划分为以下几个模块:
-- ![博客的搭建](https://github.com/clown-Jack/myBlog/projects/2)
-- ![开发工具](https://github.com/clown-Jack/myBlog/projects/1)
-- ![前端框架](https://github.com/clown-Jack/myBlog/projects/3)
+- [博客的搭建](https://github.com/clown-Jack/myBlog/projects/2)
+- [开发工具](https://github.com/clown-Jack/myBlog/projects/1)
+- [前端框架](https://github.com/clown-Jack/myBlog/projects/3)
 
 ## 目录
 ### 博客
-  ![如何使用Github Issues+project搭建博客](https://github.com/clown-Jack/myBlog/issues/2)
+  [如何使用Github Issues+project搭建博客](https://github.com/clown-Jack/myBlog/issues/2)
 ### 开发工具
-  ![svn使用指南](https://github.com/clown-Jack/myBlog/issues/1)
+  [svn使用指南](https://github.com/clown-Jack/myBlog/issues/1)
 ### vue相关
-  ![Vue开发过程中使用的插件](https://github.com/clown-Jack/myBlog/issues/3)
+  [Vue开发过程中使用的插件](https://github.com/clown-Jack/myBlog/issues/3)
