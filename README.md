@@ -9,6 +9,7 @@
 - [博客的搭建](https://github.com/clown-Jack/myBlog/projects/2)
 - [开发工具](https://github.com/clown-Jack/myBlog/projects/1)
 - [前端框架](https://github.com/clown-Jack/myBlog/projects/3)
+- [js基础](https://github.com/clown-Jack/myBlog/projects/4)
 
 ## 目录
 ### 博客
@@ -17,3 +18,5 @@
   [svn使用指南](https://github.com/clown-Jack/myBlog/issues/1)
 ### vue相关
   [Vue开发过程中使用的插件](https://github.com/clown-Jack/myBlog/issues/3)
+### js基础知识
+  [基础知识总结](https://github.com/clown-Jack/myBlog/issues/5)
