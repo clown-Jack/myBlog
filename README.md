@@ -20,3 +20,5 @@
   [Vue开发过程中使用的插件](https://github.com/clown-Jack/myBlog/issues/3)
 ### js基础知识
   [基础知识总结](https://github.com/clown-Jack/myBlog/issues/5)
+### nodejs
+  [node.js文件系统中目录的操作](https://github.com/clown-Jack/myBlog/issues/6)
